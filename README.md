@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @KumarDublin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Specialize in analyzing and visualizing complex data; 
-highly quantitative background in physics and engineering; demonstrably strong knowledge of multiple industry-standard analytics tools, including SQL, Microsoft Power BI, Python, Tableau, 
-Qualtrics (Survey Platform), and Alteryx ETL Tool; 
-With a history of creating exceptional value in challenging high-ambiguity global business environments.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am a Software Engineer with 5+ years of experience in Middleware technology (WebMethods 9). JD Edwards integrations using webMethods, Enterprise One adapters, Supply chain management processes, high volume data management from ORACLE database using JDBC adapter, Siebel CRM integration using webMethods Siebel adapters and web services. Primarily focused on the implementation of codes in a live environment. I got the opportunity to work across continents - in Australia/ India/ Belgium/ Ireland. 
 
-<!---
-KumarDublin/KumarDublin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sydney, Australia - I worked as a team associate in an SME company, specialise in analysing and visualising complex data; highly quantitative background in physics and engineering; demonstrably strong knowledge of multiple industry-standard analytics tools, including SQL, Microsoft Power BI, Python, Tableau, ETL Tool; Agile process, Jira, With a history of creating exceptional value in challenging high-ambiguity global business environments.
+
+Belgium - I worked closely with Johnson & Johnson, Belgium for nearly 4 years in a highly competitive environment. Excellent interpersonal and communication abilities, and possess a broad range of technical skills. Enjoy being part of a team, as well as managing, motivating and training a productive team, and thrive in high pressure and challenging working environments.
